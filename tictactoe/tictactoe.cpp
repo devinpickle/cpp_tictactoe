@@ -7,10 +7,6 @@
 #include "Board.h"
 using namespace std;
 
-//void display_board(char board[]);
-//bool is_x_turn(char board[]);
-//bool game_done(char board[]);
-//bool valid_space(char board[], int position);
 bool valid_move(int position);
 Board b;
 
